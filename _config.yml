@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Hydra Template
+title: nano-ci
 url: "https://proud-alligator.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Extensible cloud and hybrid CI/CD system.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: nano-ci
   links:
     - https://github.com/CloudCannon/hydra-jekyll-template
 
