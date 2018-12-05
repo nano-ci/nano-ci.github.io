@@ -4,7 +4,7 @@
 title: nano-ci
 url: "https://proud-alligator.cloudvent.net"
 baseurl:
-google_analytics_key:
+google_analytics_key: "UA-130403134-1"
 google_maps_javascript_api_key:
 disqus_shortname:
 
